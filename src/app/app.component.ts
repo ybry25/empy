@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'empy';
-  mostrar = false;
+  mostrar = true;
 }
